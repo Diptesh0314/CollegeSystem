@@ -1,0 +1,14 @@
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\bin\Debug\netcoreapp3.1\CollegeSystem.BusinessLayer.deps.json
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\bin\Debug\netcoreapp3.1\CollegeSystem.BusinessLayer.dll
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\bin\Debug\netcoreapp3.1\CollegeSystem.BusinessLayer.pdb
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\bin\Debug\netcoreapp3.1\CollegeSystem.DataAccesssLayer.dll
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\bin\Debug\netcoreapp3.1\CollegeSystem.Entity.dll
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\bin\Debug\netcoreapp3.1\CollegeSystem.DataAccesssLayer.pdb
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\bin\Debug\netcoreapp3.1\CollegeSystem.Entity.pdb
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\obj\Debug\netcoreapp3.1\CollegeSystem.BusinessLayer.csprojAssemblyReference.cache
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\obj\Debug\netcoreapp3.1\CollegeSystem.BusinessLayer.AssemblyInfoInputs.cache
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\obj\Debug\netcoreapp3.1\CollegeSystem.BusinessLayer.AssemblyInfo.cs
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\obj\Debug\netcoreapp3.1\CollegeSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\obj\Debug\netcoreapp3.1\CollegeSystem.BusinessLayer.csproj.CopyComplete
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\obj\Debug\netcoreapp3.1\CollegeSystem.BusinessLayer.dll
+F:\Dot net core\CollegeSystem\CollegeSystem.BusinessLayer\obj\Debug\netcoreapp3.1\CollegeSystem.BusinessLayer.pdb

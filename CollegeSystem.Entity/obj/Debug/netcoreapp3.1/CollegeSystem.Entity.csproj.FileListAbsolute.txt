@@ -1,0 +1,9 @@
+F:\Dot net core\CollegeSystem\CollegeSystem.Entity\bin\Debug\netcoreapp3.1\CollegeSystem.Entity.deps.json
+F:\Dot net core\CollegeSystem\CollegeSystem.Entity\bin\Debug\netcoreapp3.1\CollegeSystem.Entity.dll
+F:\Dot net core\CollegeSystem\CollegeSystem.Entity\bin\Debug\netcoreapp3.1\CollegeSystem.Entity.pdb
+F:\Dot net core\CollegeSystem\CollegeSystem.Entity\obj\Debug\netcoreapp3.1\CollegeSystem.Entity.csprojAssemblyReference.cache
+F:\Dot net core\CollegeSystem\CollegeSystem.Entity\obj\Debug\netcoreapp3.1\CollegeSystem.Entity.AssemblyInfoInputs.cache
+F:\Dot net core\CollegeSystem\CollegeSystem.Entity\obj\Debug\netcoreapp3.1\CollegeSystem.Entity.AssemblyInfo.cs
+F:\Dot net core\CollegeSystem\CollegeSystem.Entity\obj\Debug\netcoreapp3.1\CollegeSystem.Entity.csproj.CoreCompileInputs.cache
+F:\Dot net core\CollegeSystem\CollegeSystem.Entity\obj\Debug\netcoreapp3.1\CollegeSystem.Entity.dll
+F:\Dot net core\CollegeSystem\CollegeSystem.Entity\obj\Debug\netcoreapp3.1\CollegeSystem.Entity.pdb
