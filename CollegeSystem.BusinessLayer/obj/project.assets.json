@@ -489,19 +489,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\R3CK3R\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dot net core\\CollegeSystem\\CollegeSystem.BusinessLayer\\CollegeSystem.BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\GitFork\\CollegeSystem\\CollegeSystem.BusinessLayer\\CollegeSystem.BusinessLayer.csproj",
       "projectName": "CollegeSystem.BusinessLayer",
-      "projectPath": "F:\\Dot net core\\CollegeSystem\\CollegeSystem.BusinessLayer\\CollegeSystem.BusinessLayer.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\Dot net core\\CollegeSystem\\CollegeSystem.BusinessLayer\\obj\\",
+      "projectPath": "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\GitFork\\CollegeSystem\\CollegeSystem.BusinessLayer\\CollegeSystem.BusinessLayer.csproj",
+      "packagesPath": "C:\\Users\\R3CK3R\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\GitFork\\CollegeSystem\\CollegeSystem.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\R3CK3R\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -515,11 +515,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\Dot net core\\CollegeSystem\\CollegeSystem.DAL\\CollegeSystem.DataAccesssLayer.csproj": {
-              "projectPath": "F:\\Dot net core\\CollegeSystem\\CollegeSystem.DAL\\CollegeSystem.DataAccesssLayer.csproj"
+            "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\GitFork\\CollegeSystem\\CollegeSystem.DAL\\CollegeSystem.DataAccesssLayer.csproj": {
+              "projectPath": "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\GitFork\\CollegeSystem\\CollegeSystem.DAL\\CollegeSystem.DataAccesssLayer.csproj"
             },
-            "F:\\Dot net core\\CollegeSystem\\CollegeSystem.Entity\\CollegeSystem.Entity.csproj": {
-              "projectPath": "F:\\Dot net core\\CollegeSystem\\CollegeSystem.Entity\\CollegeSystem.Entity.csproj"
+            "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\GitFork\\CollegeSystem\\CollegeSystem.Entity\\CollegeSystem.Entity.csproj": {
+              "projectPath": "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\GitFork\\CollegeSystem\\CollegeSystem.Entity\\CollegeSystem.Entity.csproj"
             }
           }
         }
